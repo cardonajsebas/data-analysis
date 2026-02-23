@@ -1,0 +1,235 @@
+country,continent,subregion
+Afghanistan,Asia,"South Central Asia, Southern Asia"
+Albania,Europe,Southern Europe
+Algeria,Africa,Northern Africa
+American Samoa,Oceania,Polynesia
+Andorra,Europe,Southern Europe
+Angola,Africa,"Middle Africa, Sub-Saharan Africa"
+Anguilla,North America,Caribbean
+Antigua and Barbuda,North America,Caribbean
+Argentina,South America,"South America, Latin America"
+Armenia,Asia,Western Asia
+Aruba,North America,Caribbean
+Australia,Oceania,Australia and New Zealand
+Austria,Europe,Western Europe
+Azerbaijan,Asia,Western Asia
+Bahamas,North America,Caribbean
+Bahrain,Asia,"Western Asia, The Middle East"
+Bangladesh,Asia,"Southern Asia, South Central Asia"
+Barbados,North America,Caribbean
+Belarus,Europe,Eastern Europe
+Belgium,Europe,Western Europe
+Belize,North America,"Central America, Latin America"
+Benin,Africa,"Western Africa, Sub-Saharan Africa"
+Bermuda,North America,Northern America
+Bhutan,Asia,"Southern Asia, South Central Asia"
+Bolivia,South America,"South America, Latin America"
+Bosnia and Herzegovina,Europe,Southern Europe
+Botswana,Africa,"Southern Africa, Sub-Saharan Africa"
+Brazil,South America,"South America, Latin America"
+British Virgin Islands,North America,Caribbean
+Brunei,Asia,South-Eastern Asia
+Bulgaria,Europe,Eastern Europe
+Burkina Faso,Africa,"Western Africa, Sub-Saharan Africa"
+Burundi,Africa,"Eastern Africa, Sub-Saharan Africa"
+Cambodia,Asia,South-Eastern Asia
+Cameroon,Africa,"Middle Africa, Sub-Saharan Africa"
+Canada,North America,Northern America
+Cape Verde,Africa,"Western Africa, Sub-Saharan Africa"
+Cayman Islands,North America,Caribbean
+Central African Republic,Africa,"Middle Africa, Sub-Saharan Africa"
+Chad,Africa,"Middle Africa, Sub-Saharan Africa"
+Chile,South America,"South America, Latin America"
+China,Asia,Eastern Asia
+Colombia,South America,"South America, Latin America"
+Comoros,Africa,"Eastern Africa, Sub-Saharan Africa"
+Cook Islands,Oceania,Polynesia
+Costa Rica,North America,"Central America, Latin America"
+Croatia,Europe,Southern Europe
+Cuba,North America,Caribbean
+Curacao,North America,Caribbean
+Cyprus,Europe,"Eastern Europe, The Middle East"
+Czech Republic,Europe,Eastern Europe
+Denmark,Europe,Northern Europe
+Djibouti,Africa,"Eastern Africa, Sub-Saharan Africa"
+Dominica,North America,Caribbean
+Dominican Republic,North America,Caribbean
+DR Congo,Africa,"Middle Africa, Sub-Saharan Africa"
+Ecuador,South America,"South America, Latin America"
+Egypt,Africa,"Northern Africa, The Middle East"
+El Salvador,North America,"Central America, Latin America"
+Equatorial Guinea,Africa,"Middle Africa, Sub-Saharan Africa"
+Eritrea,Africa,"Eastern Africa, Sub-Saharan Africa"
+Estonia,Europe,Northern Europe
+Eswatini,Africa,"Southern Africa, Sub-Saharan Africa"
+Ethiopia,Africa,"Eastern Africa, Sub-Saharan Africa"
+Falkland Islands,South America,"South America, Latin America"
+Faroe Islands,Europe,Northern Europe
+Fiji,Oceania,Melanesia
+Finland,Europe,Northern Europe
+France,Europe,Western Europe
+French Guiana,South America,"South America, Latin America"
+French Polynesia,Oceania,Polynesia
+Gabon,Africa,"Middle Africa, Sub-Saharan Africa"
+Gambia,Africa,"Western Africa, Sub-Saharan Africa"
+Georgia,Asia,Western Asia
+Germany,Europe,Western Europe
+Ghana,Africa,"Western Africa, Sub-Saharan Africa"
+Gibraltar,Europe,Southern Europe
+Greece,Europe,Southern Europe
+Greenland,North America,Northern America
+Grenada,North America,Caribbean
+Guadeloupe,North America,"Caribbean, Latin America"
+Guam,Oceania,Micronesia
+Guatemala,North America,"Central America, Latin America"
+Guernsey,Europe,Northern Europe
+Guinea,Africa,"Western Africa, Sub-Saharan Africa"
+Guinea-Bissau,Africa,"Western Africa, Sub-Saharan Africa"
+Guyana,South America,"South America, Latin America"
+Haiti,North America,Caribbean
+Honduras,North America,"Central America, Latin America"
+Hong Kong,Asia,Eastern Asia
+Hungary,Europe,Eastern Europe
+Iceland,Europe,Northern Europe
+India,Asia,"Southern Asia, South Central Asia"
+Indonesia,Asia,South-Eastern Asia
+Iran,Asia,"Southern Asia, The Middle East"
+Iraq,Asia,"Western Asia, The Middle East"
+Ireland,Europe,Northern Europe
+Isle of Man,Europe,Northern Europe
+Israel,Asia,"Western Asia, The Middle East"
+Italy,Europe,Southern Europe
+Ivory Coast,Africa,"Western Africa, Sub-Saharan Africa"
+Jamaica,North America,Caribbean
+Japan,Asia,Eastern Asia
+Jersey,Europe,"Northern Europe, Sub-Saharan Africa"
+Jordan,Asia,"Western Asia, The Middle East"
+Kazakhstan,Asia,Central Asia
+Kenya,Africa,"Eastern Africa, Sub-Saharan Africa"
+Kiribati,Oceania,Micronesia
+Kuwait,Asia,"Western Asia, The Middle East"
+Kyrgyzstan,Asia,"Central Asia, South Central Asia"
+Laos,Asia,South-Eastern Asia
+Latvia,Europe,Northern Europe
+Lebanon,Asia,"Western Asia, The Middle East"
+Lesotho,Africa,"Southern Africa, Sub-Saharan Africa"
+Liberia,Africa,"Western Africa, Sub-Saharan Africa"
+Libya,Africa,Northern Africa
+Liechtenstein,Europe,Western Europe
+Lithuania,Europe,Northern Europe
+Luxembourg,Europe,Western Europe
+Macau,Asia,Eastern Asia
+Madagascar,Africa,"Eastern Africa, Sub-Saharan Africa"
+Malawi,Africa,"Eastern Africa, Sub-Saharan Africa"
+Malaysia,Asia,South-Eastern Asia
+Maldives,Asia,"Southern Asia, South Central Asia"
+Mali,Africa,"Western Africa, Sub-Saharan Africa"
+Malta,Europe,Southern Europe
+Marshall Islands,Oceania,Micronesia
+Martinique,North America,"Caribbean, Latin America"
+Mauritania,Africa,"Western Africa, Sub-Saharan Africa"
+Mauritius,Africa,"Eastern Africa, Sub-Saharan Africa"
+Mayotte,Africa,"Eastern Africa, Sub-Saharan Africa"
+Mexico,North America,"Central America, Latin America"
+Micronesia,Oceania,Micronesia
+Moldova,Europe,Eastern Europe
+Monaco,Europe,Western Europe
+Mongolia,Asia,Eastern Asia
+Montenegro,Europe,Southern Europe
+Montserrat,North America,Caribbean
+Morocco,Africa,Northern Africa
+Mozambique,Africa,"Eastern Africa, Sub-Saharan Africa"
+Myanmar,Asia,South-Eastern Asia
+Namibia,Africa,"Southern Africa, Sub-Saharan Africa"
+Nauru,Oceania,Micronesia
+Nepal,Asia,"Southern Asia, South Central Asia"
+Netherlands,Europe,Western Europe
+New Caledonia,Oceania,Melanesia
+New Zealand,Oceania,Australia and New Zealand
+Nicaragua,North America,"Central America, Latin America"
+Niger,Africa,"Western Africa, Sub-Saharan Africa"
+Nigeria,Africa,"Western Africa, Sub-Saharan Africa"
+Niue,Oceania,Polynesia
+North Korea,Asia,Eastern Asia
+North Macedonia,Europe,Southern Europe
+Northern Mariana Islands,Oceania,Micronesia
+Norway,Europe,Northern Europe
+Oman,Asia,"Western Asia, The Middle East"
+Pakistan,Asia,"Southern Asia, South Central Asia"
+Palau,Oceania,Micronesia
+Palestine,Asia,"Western Asia, The Middle East"
+Panama,North America,"Central America, Latin America"
+Papua New Guinea,Oceania,Melanesia
+Paraguay,South America,"South America, Latin America"
+Peru,South America,"South America, Latin America"
+Philippines,Asia,South-Eastern Asia
+Poland,Europe,Eastern Europe
+Portugal,Europe,Southern Europe
+Puerto Rico,North America,Caribbean
+Qatar,Asia,"Western Asia, The Middle East"
+Republic of the Congo,Africa,"Middle Africa, Sub-Saharan Africa"
+Reunion,Africa,"Eastern Africa, Sub-Saharan Africa"
+Romania,Europe,Eastern Europe
+Russia,Europe,Eastern Europe
+Rwanda,Africa,"Eastern Africa, Sub-Saharan Africa"
+Saint Barthelemy,North America,"Caribbean, Latin America"
+Saint Kitts and Nevis,North America,Caribbean
+Saint Lucia,North America,Caribbean
+Saint Martin,North America,"Caribbean, Latin America"
+Saint Pierre and Miquelon,North America,Northern America
+Saint Vincent and the Grenadines,North America,Caribbean
+Samoa,Oceania,Polynesia
+San Marino,Europe,Southern Europe
+Sao Tome and Principe,Africa,"Middle Africa, Sub-Saharan Africa"
+Saudi Arabia,Asia,"Western Asia, The Middle East"
+Senegal,Africa,"Western Africa, Sub-Saharan Africa"
+Serbia,Europe,Southern Europe
+Seychelles,Africa,"Eastern Africa, Sub-Saharan Africa"
+Sierra Leone,Africa,"Western Africa, Sub-Saharan Africa"
+Singapore,Asia,South-Eastern Asia
+Sint Maarten,North America,Caribbean
+Slovakia,Europe,Eastern Europe
+Slovenia,Europe,Southern Europe
+Solomon Islands,Oceania,Melanesia
+Somalia,Africa,"Eastern Africa, Sub-Saharan Africa"
+South Africa,Africa,"Southern Africa, Sub-Saharan Africa"
+South Korea,Asia,Eastern Asia
+South Sudan,Africa,"Middle Africa, Sub-Saharan Africa"
+Spain,Europe,Southern Europe
+Sri Lanka,Asia,"Southern Asia, South Central Asia"
+Sudan,Africa,Northern Africa
+Suriname,South America,"South America, Latin America"
+Sweden,Europe,Northern Europe
+Switzerland,Europe,Western Europe
+Syria,Asia,"Western Asia, The Middle East"
+Taiwan,Asia,Eastern Asia
+Tajikistan,Asia,"Central Asia, South Central Asia"
+Tanzania,Africa,"Eastern Africa, Sub-Saharan Africa"
+Thailand,Asia,South-Eastern Asia
+Timor-Leste,Asia,South-Eastern Asia
+Togo,Africa,"Western Africa, Sub-Saharan Africa"
+Tokelau,Oceania,Polynesia
+Tonga,Oceania,Polynesia
+Trinidad and Tobago,North America,Caribbean
+Tunisia,Africa,Northern Africa
+Turkey,Asia,"Western Asia, The Middle East"
+Turkmenistan,Asia,"Central Asia, South Central Asia"
+Turks and Caicos Islands,North America,Caribbean
+Tuvalu,Oceania,Polynesia
+Uganda,Africa,"Eastern Africa, Sub-Saharan Africa"
+Ukraine,Europe,Eastern Europe
+United Arab Emirates,Asia,"Western Asia, The Middle East"
+United Kingdom,Europe,Northern Europe
+United States,North America,Northern America
+United States Virgin Islands,North America,Caribbean
+Uruguay,South America,"South America, Latin America"
+Uzbekistan,Asia,"Central Asia, South Central Asia"
+Vanuatu,Oceania,Melanesia
+Vatican City,Europe,Southern Europe
+Venezuela,South America,"South America, Latin America"
+Vietnam,Asia,South-Eastern Asia
+Wallis and Futuna,Oceania,Polynesia
+Western Sahara,Africa,Northern Africa
+Yemen,Asia,"Western Asia, The Middle East"
+Zambia,Africa,"Eastern Africa, Sub-Saharan Africa"
+Zimbabwe,Africa,"Eastern Africa, Sub-Saharan Africa"
