@@ -24,9 +24,9 @@ Welcome to my data analysis repository. This collection showcases my ability to 
 
 - The Goal: Analyzed transactional data to identify seasonal sales trends and customer segmentation.
 
-- Key Achievement: Conducted an Exploratory Data Analysis (EDA) that uncovered [mention one specific finding, e.g., a 20% spike in churn during Q3].
+- Key Achievement: Conducted an Exploratory Data Analysis (EDA) that uncovered market trends.
 
-- Impact: Recommended inventory adjustments based on categorical performance, potentially reducing overstock by [X%].
+- Impact: Recommended inventory adjustments based on categorical performance, potentially reducing overstock.
 
 - [View Project Folder](https://github.com/cardonajsebas/data_analysis/tree/main/exploratory_data_analysis_python)
 
